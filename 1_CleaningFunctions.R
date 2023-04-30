@@ -1,5 +1,5 @@
 ###########################################
-#Fonctions pour le prétraitement des données
+#Fonctions pour le prÃ©traitement des donnÃ©es
 ############################################
 
 CategorizeMediaSource<-function(datasignals){
@@ -18,7 +18,7 @@ CategorizeMediaSource<-function(datasignals){
 }
 
 
-#pour les espèces
+#pour les espÃ¨ces
 
 CategorizeSpecies<-function(datasignals){
   
@@ -66,7 +66,7 @@ CategorizeSubtypes<-function(datasignals){
   
 }
 
-#cette commande te permet de voir le chemin qui mène à ton fichier
+#cette commande te permet de voir le chemin qui mÃ¨ne Ã  ton fichier
 getwd()
 
 
